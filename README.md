@@ -71,3 +71,26 @@ The complete analysis and Python code are available in:
 ## 📈 Project Type
 
 **Business Analytics | Exploratory Data Analysis | Data Visualization**
+
+## 📊 Visualizations
+
+### Sales by Customer Segment
+![Sales by Customer Segment](docs/sales_by_customer_segment.png)
+
+### Sales by Product Category
+![Sales by Product Category](docs/sales_by_product_category.png)
+
+### Delivery Performance
+![Delivery Performance](docs/delivery_performance.png)
+
+### Marketing Channel ROAS
+![Marketing Channel ROAS](docs/marketing_channel_roas.png)
+
+### Marketing Audience ROAS
+![Marketing Audience ROAS](docs/marketing_audience_roas.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](docs/monthly_sales_trend.png)
+
+### Sales by Payment Method
+![Sales by Payment Method](docs/sales_by_payment_method.png)
